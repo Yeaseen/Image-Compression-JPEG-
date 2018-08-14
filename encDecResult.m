@@ -26,6 +26,11 @@ colSize=size(Bq,2);
 
 ZgZag = zigzagMy(Bq);
 
+
+
+
+
+
 Bqnew=invzigzagMy(ZgZag,rowSize,colSize);
 
 
